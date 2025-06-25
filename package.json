@@ -1,0 +1,17 @@
+{
+  "name": "unused-asset-detector",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   "unused:scan": "node scan-assets.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "glob": "^11.0.3",
+    "inquirer": "^8.2.6"
+  }
+}
